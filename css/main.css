@@ -179,3 +179,34 @@ div#contentwrap #content p {
   float: left;
   padding: 5px;
 }
+
+div#contentwrap #content .content-left .content-left1 .content-left-top button{
+  width: 314px;
+  height: 62px;
+  background-color: #211545;
+  color: #fff;
+  line-height: 62px;
+  font-size: 20px;
+  left: 45px;
+  margin: 2px;
+}
+
+
+div#contentwrap #content .content-left .content-left1 .content-left-wrap div{
+  margin: 0;
+  border: 1px solid #E1E1E1;
+  border-top: 0;
+  color: rgb(1,73,131);
+  padding: 20px 20px;
+
+}
+
+div#contentwrap #content .content-left .content-left1 .content-left-wrap div p{
+  color: rgb(1,73,131);
+}
+
+div#contentwrap #content .content-left .content-left1 .content-left-wrap div ul{
+  font-size: 140%;
+  line-height: 160%;
+  color: rgb(1,73,131);
+}
