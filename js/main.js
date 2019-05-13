@@ -99,7 +99,6 @@ function fun7(){
     if(obj[0].style.display=="none"){
         obj[0].style.display="block";
         s.innerHTML = "-";
-
     }
     else{
         obj[0].style.display="none";
@@ -114,7 +113,6 @@ function fun8(){
     if(obj[0].style.display=="none"){
         obj[0].style.display="block";
         s.innerHTML = "-";
-
     }
     else{
         obj[0].style.display="none";
@@ -129,7 +127,6 @@ function fun9(){
     if(obj[0].style.display=="none"){
         obj[0].style.display="block";
         s.innerHTML = "-";
-
     }
     else{
         obj[0].style.display="none";
@@ -144,7 +141,6 @@ function fun10(){
     if(obj[0].style.display=="none"){
         obj[0].style.display="block";
         s.innerHTML = "-";
-
     }
     else{
         obj[0].style.display="none";
@@ -155,6 +151,58 @@ function fun10(){
 function fun11(){
     var obj = document.getElementsByClassName("content-left-wrap11");
     var img = document.getElementById("img1");
+    if(obj[0].style.display=="none"){
+        obj[0].style.display="block";
+        img.src = "images/tmm_south_black.gif";
+    }
+    else{
+        obj[0].style.display="none";
+        img.src = "images/tmm_east_black.gif";
+    }
+}
+
+function fun12(){
+    var obj = document.getElementsByClassName("content-left-wrap12");
+    var img = document.getElementById("img2");
+    if(obj[0].style.display=="none"){
+        obj[0].style.display="block";
+        img.src = "images/tmm_south_black.gif";
+    }
+    else{
+        obj[0].style.display="none";
+        img.src = "images/tmm_east_black.gif";
+    }
+}
+
+function fun13(){
+    var obj = document.getElementsByClassName("content-left-wrap13");
+    var img = document.getElementById("img3");
+    if(obj[0].style.display=="none"){
+        obj[0].style.display="block";
+        img.src = "images/tmm_south_black.gif";
+    }
+    else{
+        obj[0].style.display="none";
+        img.src = "images/tmm_east_black.gif";
+    }
+}
+
+function fun14(){
+    var obj = document.getElementsByClassName("content-left-wrap14");
+    var img = document.getElementById("img4");
+    if(obj[0].style.display=="none"){
+        obj[0].style.display="block";
+        img.src = "images/tmm_south_black.gif";
+    }
+    else{
+        obj[0].style.display="none";
+        img.src = "images/tmm_east_black.gif";
+    }
+}
+
+function fun15(){
+    var obj = document.getElementsByClassName("content-left-wrap15");
+    var img = document.getElementById("img5");
     if(obj[0].style.display=="none"){
         obj[0].style.display="block";
         img.src = "images/tmm_south_black.gif";
