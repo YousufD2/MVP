@@ -88,35 +88,44 @@ body{
   text-decoration: underline;
 }
 
-.logo img{
-  height: 8rem;
-  width: 13rem;
-}
-
-.search{
+.ico-key {
+  background: url(../images/ico-key.png) no-repeat 0 10px transparent;
+  padding-left: 30px;
   float: right;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
+  font-size: 120%;
+  color: #fff;
+  padding-top: 8px;
+  padding-right: 5px;
   text-decoration: none;
 }
 
-li a:hover {
-  background-color: #111;
+/*wrapper*/
+
+#wrapper {
+  width: 955px;
+  margin-right: auto;
+  margin-left: auto;
+  /*overflow: hidden;*/
 }
+
+#header {
+  height: 120px;
+  margin-bottom: 40px;
+}
+
+#cdulogo {
+  float: left;
+  height: 120px;
+  width: 406px;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+#search{
+  margin-top: 110px;
+  right: 8px;
+  text-align: left;
+  float: right;
+  margin-right: 15px;
+}
+
