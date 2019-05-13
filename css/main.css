@@ -22,7 +22,6 @@ body{
   background-image: url("../images/redgradient.gif");
   background-repeat: repeat-x;
   height: 30px;
-  background-color: #211545
   margin-left: auto;
   margin-right: auto;
 }
@@ -129,3 +128,54 @@ body{
   margin-right: 15px;
 }
 
+#pagetitle {
+  background-color: #123768;
+  height: 60px;
+  text-align: left;
+  background-color: #211545;
+  background-repeat: no-repeat;
+  background-position: right;
+  margin-top: 15px;
+}
+
+#pagetitle h1 {
+  color: #fff;
+  font: 28px arial, helvetica;
+  line-height: 60px;
+  margin-left: 10px;
+}
+
+div#contentwrap {
+  /*overflow: hidden;*/
+  position: relative;
+  background-image: url(../images/contentbg.gif);
+  background-repeat: repeat-y;
+}
+
+#content {
+  width: 650px;
+  margin-top: 20px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  float: left;
+}
+
+#content ul li {
+  list-style-type: disc;
+  line-height: 140%;
+  margin-left: 40px;
+}
+
+div#contentwrap #content p {
+  font-size: 140%;
+  line-height: 160%;
+  color: #333;
+}
+
+.content-left{
+  margin: 40px auto;
+  width: 314px;
+  float: left;
+  padding: 5px;
+}

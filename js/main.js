@@ -1,4 +1,4 @@
-nction fun1(){
+function fun1(){
     var obj = document.getElementsByClassName("content-left-wrap1");
 
     // var obj3 = document.getElementsByClassName("content-left-wrap3");
