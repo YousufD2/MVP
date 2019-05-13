@@ -12,7 +12,7 @@ body{
   font-size: 62.5%;
   margin: 0px;
   padding: 0px;
-  background-image: url(../images/bodybg.gif);
+  background-image: url("../images/bodybg.gif");
   background-repeat: repeat-y;
   background-position: center;
   background-color: #eaeaea;
@@ -89,7 +89,7 @@ body{
 }
 
 .ico-key {
-  background: url(../images/ico-key.png) no-repeat 0 10px transparent;
+  background: url("../images/ico-key.png") no-repeat 0 10px transparent;
   padding-left: 30px;
   float: right;
   font-size: 120%;
