@@ -19,54 +19,73 @@ body{
 }
 
 #topnavcontainter {
-
   background-image: url("../images/redgradient.gif");
-
   background-repeat: repeat-x;
-
   height: 30px;
-
   background-color: #211545
-
   margin-left: auto;
-
   margin-right: auto;
-
 }
 
 #topnav {
-
   width: 955px;
-
   margin-right: auto;
-
   margin-left: auto;
-
 }
 
 #topnavcontainter #topnav  #utility {
-
   padding-top: 3px;
-
   top: 0px;
-
   text-align: right;
-
   float: left;
-
   margin-top: 5px;
-
   border-bottom: none;
 }
 
 #utility ul {
   list-style: none;
-
   margin: 0;
-
   padding: 0;
-
   display: inline;
+}
+
+#utility ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+#utility ul li {
+  border-right: 1px solid #dfdfdf;
+  font-size: 12px;
+  display: inline;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-right: 8px;
+  padding-left: 8px;
+}
+
+#utility ul li.first {
+  padding-left: 0;
+}
+
+
+
+#utility ul li.last {
+  padding-right: 22px;
+  border: 0;
+  margin-left: 0px;
+}
+
+#utility ul li a {
+  padding-bottom: 1px;
+  text-decoration: none;
+  color: #FFF;
+}
+
+#utility ul li a:hover {
+  text-decoration: underline;
 }
 
 .logo img{
