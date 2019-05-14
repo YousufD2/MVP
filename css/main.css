@@ -109,7 +109,7 @@ h2:after {
     margin-top: 10px;
 }
 
-<!--css secion -->
+/* CSS card section */
 
 .card{
     box-shadow:0 4px 8px 0 rgba(0,0,0,0.6);
@@ -166,7 +166,7 @@ h2:after {
         align-items: center;
     }
 
-<!--Css-sectionend-->
+/* section edn*/
 
 footer {
         background-color: #fff8f8;
