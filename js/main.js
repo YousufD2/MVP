@@ -11,232 +11,25 @@ $(document).ready(function () {
 
 });
 
-
-
-function fun1(){
-    var obj = document.getElementsByClassName("content-left-wrap1");
-
-    // var obj3 = document.getElementsByClassName("content-left-wrap3");
-    var s = document.getElementById("s1");
-
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        s.innerHTML = "-";
-    }
-    else{
-        obj[0].style.display="none";
-        s.innerHTML = "+";
-    }
-
-}
-
-function fun2(){
-    var obj = document.getElementsByClassName("content-left-wrap2");
-
-    // var obj3 = document.getElementsByClassName("content-left-wrap3");
-    var s = document.getElementById("s2");
-
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        s.innerHTML = "-";
-    }
-    else{
-        obj[0].style.display="none";
-        s.innerHTML = "+";
-    }
-
-}
-
-function fun3(){
-    var obj = document.getElementsByClassName("content-left-wrap3");
-    var s = document.getElementById("s3");
-
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        s.innerHTML = "-";
-
-    }
-    else{
-        obj[0].style.display="none";
-        s.innerHTML = "+";
-    }
-}
-
-function fun4(){
-    var obj = document.getElementsByClassName("content-left-wrap4");
-    var s = document.getElementById("s4");
-
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        s.innerHTML = "-";
-
-    }
-    else{
-        obj[0].style.display="none";
-        s.innerHTML = "+";
-    }
-}
-
-function fun5(){
-    var obj = document.getElementsByClassName("content-left-wrap5");
-    var s = document.getElementById("s5");
-
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        s.innerHTML = "-";
-
-    }
-    else{
-        obj[0].style.display="none";
-        s.innerHTML = "+";
-    }
-}
-
-function fun6(){
-    var obj = document.getElementsByClassName("content-left-wrap6");
-    var s = document.getElementById("s6");
-
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        s.innerHTML = "-";
-
-    }
-    else{
-        obj[0].style.display="none";
-        s.innerHTML = "+";
-    }
-}
-
-function fun7(){
-    var obj = document.getElementsByClassName("content-left-wrap7");
-    var s = document.getElementById("s7");
-
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        s.innerHTML = "-";
-    }
-    else{
-        obj[0].style.display="none";
-        s.innerHTML = "+";
-    }
-}
-
-function fun8(){
-    var obj = document.getElementsByClassName("content-left-wrap8");
-    var s = document.getElementById("s8");
-
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        s.innerHTML = "-";
-    }
-    else{
-        obj[0].style.display="none";
-        s.innerHTML = "+";
-    }
-}
-
-function fun9(){
-    var obj = document.getElementsByClassName("content-left-wrap9");
-    var s = document.getElementById("s9");
-
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        s.innerHTML = "-";
-    }
-    else{
-        obj[0].style.display="none";
-        s.innerHTML = "+";
-    }
-}
-
-function fun10(){
-    var obj = document.getElementsByClassName("content-left-wrap10");
-    var s = document.getElementById("s10");
-
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        s.innerHTML = "-";
-    }
-    else{
-        obj[0].style.display="none";
-        s.innerHTML = "+";
-    }
-}
-
-function fun11(){
-    var obj = document.getElementsByClassName("content-left-wrap11");
-    var img = document.getElementById("img1");
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        img.src = "images/tmm_south_black.gif";
-    }
-    else{
-        obj[0].style.display="none";
-        img.src = "images/tmm_east_black.gif";
-    }
-}
-
-function fun12(){
-    var obj = document.getElementsByClassName("content-left-wrap12");
-    var img = document.getElementById("img2");
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        img.src = "images/tmm_south_black.gif";
-    }
-    else{
-        obj[0].style.display="none";
-        img.src = "images/tmm_east_black.gif";
-    }
-}
-
-function fun13(){
-    var obj = document.getElementsByClassName("content-left-wrap13");
-    var img = document.getElementById("img3");
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        img.src = "images/tmm_south_black.gif";
-    }
-    else{
-        obj[0].style.display="none";
-        img.src = "images/tmm_east_black.gif";
-    }
-}
-
-function fun14(){
-    var obj = document.getElementsByClassName("content-left-wrap14");
-    var img = document.getElementById("img4");
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        img.src = "images/tmm_south_black.gif";
-    }
-    else{
-        obj[0].style.display="none";
-        img.src = "images/tmm_east_black.gif";
-    }
-}
-
-function fun15(){
-    var obj = document.getElementsByClassName("content-left-wrap15");
-    var img = document.getElementById("img5");
-    if(obj[0].style.display=="none"){
-        obj[0].style.display="block";
-        img.src = "images/tmm_south_black.gif";
-    }
-    else{
-        obj[0].style.display="none";
-        img.src = "images/tmm_east_black.gif";
-    }
-}
-
-
-
-
 function openNav() {
-  document.getElementById("mySidebar").style.width = "250px";
-  document.getElementById("main").style.marginLeft = "250px";
+    document.getElementById("mySidebar").style.width = "250px";
+    document.getElementById("main").style.marginLeft = "250px";
 }
 
 function closeNav() {
-  document.getElementById("mySidebar").style.width = "0";
-  document.getElementById("main").style.marginLeft= "0";
+    document.getElementById("mySidebar").style.width = "0";
+    document.getElementById("main").style.marginLeft= "0";
+}
+
+function find() {
+    var oBox = document.getElementById("find_page");
+    var oContent = oBox.innerHTML;
+    var testTxt = document.getElementById("search_input");
+    var oBtn = document.getElementById("btn");
+    var val = testTxt.value;
+    var findText = oContent.split(val);
+    if (val){
+        oBox.innerHTML = findText.join('<span style="color:red;">' + val + '</span> ');
+    }
+    else {}
 }
