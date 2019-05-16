@@ -1,3 +1,18 @@
+$(document).ready(function () {
+
+    $('.js--section-style').waypoint(function(direction){
+        if (direction == "down"){
+            $('nav').addClass('sticky');
+        }
+        else {
+            $('nav').removeClass('sticky');
+        }
+    });
+
+});
+
+
+
 function fun1(){
     var obj = document.getElementsByClassName("content-left-wrap1");
 
