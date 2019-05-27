@@ -195,7 +195,7 @@ p{
     width:360px;
     font-size: 16px;
     margin: 30px;
-    height: 500px;
+    height: 550px;
     background-color: #ebeef8;
     border-radius: 5px;
 }
@@ -230,6 +230,11 @@ p{
   border-bottom: 2px solid #b342f4;
 
 }
+
+.card ul{
+  text-align: left;
+}
+
 .subheading{
   margin-bottom: 0px;
   margin-top: 0px;
@@ -269,8 +274,9 @@ p{
 }
 
 .button-style{
-  padding-bottom: 20px;
-  padding-top: 20px;
+  padding-bottom: 40px;
+  padding-top: 7px;
+  margin-bottom: 0;
 
 }
 
@@ -281,9 +287,10 @@ p{
 }
 
 .card p{
-    text-align:center;
+    text-align:left;
     font-size:18px;
     font-family:Calibri;
+    padding-left: 10px;
 }
 
 footer {
