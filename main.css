@@ -185,12 +185,11 @@ h5{
 }
 
 .long-copy {
-    line-height: 145%;
-    width:35%;
-    margin-left: 15%;
-    margin-top: 10px;
-    padding: 20px 20px;
-    background: #fff;
+   line-height: 145%;
+   margin-left: 15%;
+   margin-top: 10px;
+   margin-right: 20px;
+  background: #fff;
 }
 
 <!---->
@@ -209,6 +208,20 @@ h5{
     background-color: #fff;
     border-radius: 5px;
 }
+
+.intro-card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  float: left;
+  width:360px;
+  font-size: 16px;
+  height: 350px;
+  margin: 30px;
+  background-color: #fff;
+}
+
 
 .card-wrapper{
     display: flex;
@@ -345,6 +358,12 @@ footer {
     display: inline-block;
     margin-right: 20px;
 }
+
+.image-logo{
+  width: 350px;
+  height: 300px;
+}
+
 
 /*Small phones: from 0 to 480px */
 @media only screen and (min-width: 320px) {
