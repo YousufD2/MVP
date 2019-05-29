@@ -2,10 +2,10 @@ $(document).ready(function () {
 
     $('.js--section-style').waypoint(function(direction){
         if (direction == "down"){
-            $('nav').addClass('sticky');
+            $('second-nav').addClass('sticky');
         }
         else {
-            $('nav').removeClass('sticky');
+            $('second-nav').removeClass('sticky');
         }
     });
 
