@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4598075c-493e-4dff-bcd2-c13057758ffa" name="Default Changelist" comment="" />
+    <list default="true" id="4598075c-493e-4dff-bcd2-c13057758ffa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/academic_writing.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic_writing.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -47,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reading_critically.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1355">
-              <caret line="117" column="62" lean-forward="true" selection-start-line="117" selection-start-column="62" selection-end-line="117" selection-end-column="62" />
+            <state relative-caret-position="431">
+              <caret line="211" column="11" lean-forward="true" selection-start-line="208" selection-start-column="8" selection-end-line="211" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -56,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/academic_writing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1425">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="266">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -72,8 +74,8 @@
       <list>
         <option value="$PROJECT_DIR$/reading.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/academic_writing.html" />
         <option value="$PROJECT_DIR$/reading_critically.html" />
+        <option value="$PROJECT_DIR$/academic_writing.html" />
       </list>
     </option>
   </component>
@@ -132,12 +134,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559106616059</updated>
-      <workItem from="1559106617181" duration="2735000" />
+      <workItem from="1559106617181" duration="2936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2735000" />
+    <option name="totallyTimeSpent" value="2936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="637" y="20" width="974" height="1047" extended-state="0" />
@@ -195,15 +197,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/reading_critically.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1355">
-          <caret line="117" column="62" lean-forward="true" selection-start-line="117" selection-start-column="62" selection-end-line="117" selection-end-column="62" />
+        <state relative-caret-position="431">
+          <caret line="211" column="11" lean-forward="true" selection-start-line="208" selection-start-column="8" selection-end-line="211" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/academic_writing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1425">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="266">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>
