@@ -110,8 +110,8 @@ body{
     box-shadow: 0 2px 2px #efefef;
 }
 
-.sticky main-nav li a:link,
-.sticky main-nav li a:visited{
+.sticky li a:link,
+.sticky li a:visited{
     padding: 16px 0;
     color: #fff;
 }
@@ -164,7 +164,7 @@ li:last-child {
 h2{
     font-weight: 300;
     font-size: 50px;
-    font-family:Calibri;
+    font-family: Calibri, serif;
     word-spacing: 2px;
     text-align: center;
     margin-bottom: 30px;
@@ -172,7 +172,7 @@ h2{
 }
 
 p{
-    font-family:Calibri;
+    font-family: Calibri, serif;
     font-size:17px;
 }
 
@@ -256,7 +256,7 @@ h5{
 .QQ{
   text-align:center;
   font-size:18px;
-  font-family:Calibri;
+    font-family: Calibri, serif;
   padding-left: 10px;
   padding-bottom: 10px;
   padding-top: 10px;
@@ -267,8 +267,8 @@ h5{
 }
 
 .subheading{
-  margin-bottom: 0px;
-  margin-top: 0px;
+  margin-bottom: 0;
+  margin-top: 0;
   color: white;
   background-color: #008CBA;
   border-top-left-radius: 5px;
@@ -280,8 +280,8 @@ h5{
   height: 90px;
 }
 .subheading-2{
-  margin-bottom: 0px;
-  margin-top: 0px;
+  margin-bottom: 0;
+  margin-top: 0;
   color: white;
   background-color: #008CBA;
   border-top-left-radius: 5px;
@@ -335,7 +335,7 @@ h5{
 .card p{
     text-align:center;
     font-size:18px;
-    font-family:Calibri;
+    font-family: Calibri, serif;
     padding-left: 10px;
 }
 
