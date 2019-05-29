@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4598075c-493e-4dff-bcd2-c13057758ffa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1024px-Critical_Thinking_Skills_Diagram.svg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadingCritical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/academic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/academicwriting.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/.idea/Intro&amp;Defi Subpage.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/1024px-Critical_Thinking_Skills_Diagram.svg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/instagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/ionicons.min 2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/jquery.waypoints.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/smallnav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/title.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 1/twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/.idea/Intro&amp;Defi Subpage.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/1024px-Critical_Thinking_Skills_Diagram.svg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/instagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/ionicons.min 2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/jquery.waypoints.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/smallnav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/title.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Subpage 2/twitter.png" beforeDir="false" />
-    </list>
+    <list default="true" id="4598075c-493e-4dff-bcd2-c13057758ffa" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -71,7 +19,7 @@
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/index.html">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="412">
+                  <state relative-caret-position="426">
                     <caret line="195" column="148" lean-forward="true" selection-start-line="193" selection-start-column="8" selection-end-line="195" selection-end-column="148" />
                     <folding>
                       <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -83,7 +31,7 @@
             <file pinned="false" current-in-tab="false">
               <entry file="file://$PROJECT_DIR$/main.css">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="456">
+                  <state relative-caret-position="-5293">
                     <caret line="84" column="20" lean-forward="true" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
                   </state>
                 </provider>
@@ -96,19 +44,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reading_critically.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1267">
-              <caret line="171" column="12" lean-forward="true" selection-start-line="171" selection-start-column="12" selection-end-line="171" selection-end-column="12" />
+            <state relative-caret-position="-1355">
+              <caret line="117" column="62" lean-forward="true" selection-start-line="117" selection-start-column="62" selection-end-line="117" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/academic_writing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="-1425">
               <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
@@ -184,12 +132,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559106616059</updated>
-      <workItem from="1559106617181" duration="1695000" />
+      <workItem from="1559106617181" duration="2735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1695000" />
+    <option name="totallyTimeSpent" value="2735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="637" y="20" width="974" height="1047" extended-state="0" />
@@ -225,26 +173,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="84" column="20" lean-forward="true" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/academic.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/academic_writing.html">
+    <entry file="file://$PROJECT_DIR$/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="-5293">
+          <caret line="84" column="20" lean-forward="true" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
+        <state relative-caret-position="426">
           <caret line="195" column="148" lean-forward="true" selection-start-line="193" selection-start-column="8" selection-end-line="195" selection-end-column="148" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -254,8 +195,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/reading_critically.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1267">
-          <caret line="171" column="12" lean-forward="true" selection-start-line="171" selection-start-column="12" selection-end-line="171" selection-end-column="12" />
+        <state relative-caret-position="-1355">
+          <caret line="117" column="62" lean-forward="true" selection-start-line="117" selection-start-column="62" selection-end-line="117" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/academic_writing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1425">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
