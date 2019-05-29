@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4598075c-493e-4dff-bcd2-c13057758ffa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sub.css" beforeDir="false" afterPath="$PROJECT_DIR$/sub.css" afterDir="false" />
-    </list>
+    <list default="true" id="4598075c-493e-4dff-bcd2-c13057758ffa" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -49,13 +47,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reading_critically.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
+            <state relative-caret-position="445">
               <caret line="211" column="11" lean-forward="true" selection-start-line="208" selection-start-column="8" selection-end-line="211" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/academic_writing.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="13">
@@ -64,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sub.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="337" column="31" selection-start-line="337" selection-start-column="31" selection-end-line="337" selection-end-column="31" />
+            <state relative-caret-position="-980">
+              <caret line="322" column="23" lean-forward="true" selection-start-line="322" selection-start-column="23" selection-end-line="322" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -89,7 +87,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="637" />
     <option name="y" value="20" />
     <option name="width" value="974" />
@@ -144,12 +142,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559106616059</updated>
-      <workItem from="1559106617181" duration="3176000" />
+      <workItem from="1559106617181" duration="3833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3176000" />
+    <option name="totallyTimeSpent" value="3833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="637" y="20" width="974" height="1047" extended-state="0" />
@@ -188,13 +186,6 @@
     <entry file="file://$PROJECT_DIR$/academic.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/reading_critically.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="211" column="11" lean-forward="true" selection-start-line="208" selection-start-column="8" selection-end-line="211" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
@@ -212,17 +203,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sub.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-980">
+          <caret line="322" column="23" lean-forward="true" selection-start-line="322" selection-start-column="23" selection-end-line="322" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reading_critically.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="211" column="11" lean-forward="true" selection-start-line="208" selection-start-column="8" selection-end-line="211" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/academic_writing.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13">
           <caret line="122" column="34" lean-forward="true" selection-start-line="122" selection-start-column="34" selection-end-line="122" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sub.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="337" column="31" selection-start-line="337" selection-start-column="31" selection-end-line="337" selection-end-column="31" />
         </state>
       </provider>
     </entry>
