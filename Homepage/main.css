@@ -12,7 +12,7 @@
 }
 
 body{
-  background-color:#ede5ce;
+  background-color:#fff;
 }
 
 .widthsize{
@@ -140,8 +140,9 @@ body{
 }
 
 .second-nav{
+  text-align: center;
   width:100%;
-  background: #ffffff;
+  background: #211545;
   position: fixed;
   top:0;
 
@@ -469,4 +470,9 @@ footer {
 iframe{
   width: 70%;
   height: 28rem;
+}
+
+
+.image-front{
+  width: 100%;
 }
