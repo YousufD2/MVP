@@ -470,6 +470,9 @@ footer {
 video{
   width: 75%;
   height: auto;
+  border: 1.5px;
+  border-color: black;
+  border-style: solid;
 }
 
 .image-front{
