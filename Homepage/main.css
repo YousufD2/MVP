@@ -467,11 +467,10 @@ footer {
     }
 }
 
-iframe{
-  width: 70%;
-  height: 28rem;
+video{
+  width: 75%;
+  height: auto;
 }
-
 
 .image-front{
   width: 100%;
